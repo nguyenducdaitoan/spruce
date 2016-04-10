@@ -52,7 +52,6 @@ $db['default']['hostname'] = 'sql6.freesqldatabase.com';
 $db['default']['username'] = 'sql6112640';
 $db['default']['password'] = 'lGlBywgCe3';
 $db['default']['database'] = 'sql6112640';
-
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
